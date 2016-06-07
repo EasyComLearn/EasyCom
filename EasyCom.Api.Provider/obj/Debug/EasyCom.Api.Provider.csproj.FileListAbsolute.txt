@@ -1,0 +1,5 @@
+D:\Projects\easyshop\Code\EasyShop\EasyCom.Api.Provider\bin\Debug\EasyCom.Api.Provider.dll
+D:\Projects\easyshop\Code\EasyShop\EasyCom.Api.Provider\bin\Debug\EasyCom.Api.Provider.pdb
+D:\Projects\easyshop\Code\EasyShop\EasyCom.Api.Provider\obj\Debug\EasyCom.Api.Provider.csprojResolveAssemblyReference.cache
+D:\Projects\easyshop\Code\EasyShop\EasyCom.Api.Provider\obj\Debug\EasyCom.Api.Provider.dll
+D:\Projects\easyshop\Code\EasyShop\EasyCom.Api.Provider\obj\Debug\EasyCom.Api.Provider.pdb

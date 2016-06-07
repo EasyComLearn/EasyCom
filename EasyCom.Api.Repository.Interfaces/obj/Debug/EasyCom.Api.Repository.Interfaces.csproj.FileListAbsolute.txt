@@ -1,0 +1,7 @@
+D:\Projects\easyshop\Code\EasyShop\EasyCom.Api.Repository.Interfaces\bin\Debug\EasyCom.Api.Repository.Interfaces.dll
+D:\Projects\easyshop\Code\EasyShop\EasyCom.Api.Repository.Interfaces\bin\Debug\EasyCom.Api.Repository.Interfaces.pdb
+D:\Projects\easyshop\Code\EasyShop\EasyCom.Api.Repository.Interfaces\obj\Debug\EasyCom.Api.Repository.Interfaces.dll
+D:\Projects\easyshop\Code\EasyShop\EasyCom.Api.Repository.Interfaces\obj\Debug\EasyCom.Api.Repository.Interfaces.pdb
+D:\Projects\easyshop\Code\EasyShop\EasyCom.Api.Repository.Interfaces\bin\Debug\EasyCom.Api.Types.dll
+D:\Projects\easyshop\Code\EasyShop\EasyCom.Api.Repository.Interfaces\bin\Debug\EasyCom.Api.Types.pdb
+D:\Projects\easyshop\Code\EasyShop\EasyCom.Api.Repository.Interfaces\obj\Debug\EasyCom.Api.Repository.Interfaces.csprojResolveAssemblyReference.cache

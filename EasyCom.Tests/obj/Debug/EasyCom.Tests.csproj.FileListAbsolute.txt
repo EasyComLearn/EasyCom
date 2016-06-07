@@ -1,0 +1,6 @@
+D:\Projects\easyshop\Code\EasyShop\EasyCom.Tests\bin\Debug\EasyCom.Tests.dll
+D:\Projects\easyshop\Code\EasyShop\EasyCom.Tests\bin\Debug\EasyCom.Tests.pdb
+D:\Projects\easyshop\Code\EasyShop\EasyCom.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Projects\easyshop\Code\EasyShop\EasyCom.Tests\obj\Debug\EasyCom.Tests.csprojResolveAssemblyReference.cache
+D:\Projects\easyshop\Code\EasyShop\EasyCom.Tests\obj\Debug\EasyCom.Tests.dll
+D:\Projects\easyshop\Code\EasyShop\EasyCom.Tests\obj\Debug\EasyCom.Tests.pdb
